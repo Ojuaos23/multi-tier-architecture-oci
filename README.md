@@ -105,7 +105,13 @@ Set up Internet Gateway for public subnet connectivity and planned NAT Gateway f
 **Security:** Network isolation and controlled access  
 **Scalability:** Each tier scales independently  
 **Performance:** Optimized data flow between tiers  
-**Cost:** Efficient resource utilization  
+**Cost:** Efficient resource utilization 
+
+### OCI Console Screenshots
+
+![VCN Overview](screenshots/vcn-overview.png)
+![Subnets](screenshots/subnets.png)
+![Security Lists](screenshots/security-lists.png)
 
 ## 🔗 Related Projects
 
